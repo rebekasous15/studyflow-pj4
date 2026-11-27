@@ -13,7 +13,7 @@ Facilitar a rotina dos estudantes por meio de uma plataforma simples e organizad
 
 - Isabelle
 - Rebeka
-- Kiara
+- Kyara
 - Larissa
 
 ## Funcionalidades
